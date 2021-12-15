@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Alphabet Soup Deep Learning
 
 ## Analysis Overview
 The analysis used machine learning and neural networks to predict whether if the applicants funded by the charity organization known as Alphabet Soup will be successful or not. The prediction resulted from the creation of a binary classifier that analyzed a dataset containing 30,000+ organizations funded by Alphabet Soup. In this project, it comprised of:
