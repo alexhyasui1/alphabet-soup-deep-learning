@@ -4,7 +4,17 @@
 The analysis used machine learning and neural networks to predict whether if the applicants funded by the charity organization known as Alphabet Soup will be successful or not. The prediction resulted from the creation of a binary classifier that analyzed a dataset containing 30,000+ organizations funded by Alphabet Soup. In this project, it comprised of:
 * Preprocessing data for the neural network
 * Compiling, training, and evaluating the model
-* Optimizing the model
+* Optimizing the model 
+
+## Examples
+<p align="center">
+  <img src="https://github.com/alexhyasui1/sql-challenge/blob/main/images/histogram.png" height="75%" width="75%">
+</p>
+
+- Create a bar chart of average salary by title
+<p align="center">
+  <img src="https://github.com/alexhyasui1/sql-challenge/blob/main/images/barchart.png" height="75%" width="75%">
+</p>
 
 ## Results
 
